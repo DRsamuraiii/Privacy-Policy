@@ -1,2 +1,2 @@
-# Privacy-Policy
-> | This repository is made for education purposes. |
+### Privacy-Policy
+This repository is made for education purposes. 
